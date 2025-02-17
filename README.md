@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:เจดติลก สุวรรณบงกช
+# STUDENT ID:670610749
